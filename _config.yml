@@ -6,6 +6,9 @@ title: My website
 # Short description of your site
 description: A virtual proof that I'm awesome
 
+url                      : "https://seongilman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
 # Your name to show in the footer
 author: Some Person
 
