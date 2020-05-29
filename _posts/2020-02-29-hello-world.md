@@ -4,7 +4,7 @@ title: github page open!
 subtitle: hello world!
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-cover-img: /files/cover/github_pages.jpeg
+cover-img: /files/cover/GitHub_Logo.png
 tags: [daily]
 comments: true
 ---
