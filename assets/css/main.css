@@ -9,7 +9,12 @@ layout: null
 html {
   font-size: 100%
 }
-
+.list-filters {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 30px;
+    text-align: center;
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
