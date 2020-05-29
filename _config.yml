@@ -20,7 +20,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Blog: "https://seongilman.tistory.com/"
-  Projects: "projects"
+  Projects: "projects" # projects.md
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ round-avatar: true
 social-network-links:
   email: "seongilman@naver.com"
   facebook: "seongilman"
-  github: daattali
+  github: seongilman
 #  twitter: daattali
   rss: true
 #  reddit: yourname
