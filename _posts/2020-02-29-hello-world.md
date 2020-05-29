@@ -1,7 +1,7 @@
 ---
 layout: post
-title: github io open
-#subtitle: Each post also has a subtitle
+title: github page open!
+subtitle: hello world!
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 cover-img: /files/cover/beach.jpg
