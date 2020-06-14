@@ -9,17 +9,18 @@ tags: [timepiece]
 comments: true
 ---
 
-### MATERIALS
+#### MATERIALS
 Case - 316L Stainless Steel
 Lens - Sapphire Crystal
-### MOVEMENT
+#### MOVEMENT
 Seiko Instruments Inc. NH35A Automatic Winding Mechanism (18,800 vph)
-### DIMENSIONS
+#### DIMENSIONS
 Case Width - 42.5mm excl. crown
 Case Thickness - 16mm incl. crystal
-### WATER RESISTANCE
+#### WATER RESISTANCE
 Solid Caseback: 20ATM / 200 Meters
 Glass Caseback: 10ATM / 100 Meters
+
 
 ![title](/files/post/20200614/undone_1.jpeg){: width="60%" height="80%"}
 ![title](/files/post/20200614/undone_2.jpeg){: width="60%" height="80%"}
