@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-![title](/files/post/20200614/a_1.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/a_2.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/a_3.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/a_4.jpeg){: width="60%" height="80%"}
+![title](/files/post/20200614/a_1.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/a_2.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/a_3.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/a_4.jpeg){: width="80%" height="90%"}
