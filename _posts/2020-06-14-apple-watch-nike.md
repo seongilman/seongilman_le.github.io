@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Apple Watch Nike
-#subtitle: hello world!
+title: APPLE WATCH
+subtitle: NIKE
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 cover-img: /files/post/20200614/undone_cover.png
