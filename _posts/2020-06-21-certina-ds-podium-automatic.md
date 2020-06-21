@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Certina
-#subtitle: hello world!
+title: CERTINA
+subtitle: DS Podium Automatic
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 cover-img: /files/post/20200621/c_logo.png
