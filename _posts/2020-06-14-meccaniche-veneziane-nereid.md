@@ -26,9 +26,9 @@ Case Thickness - 16mm incl. crystal
 ### WATER RESISTANCE
 20ATM / 200 Meters
 
-![title](/files/post/20200614/mv_1.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/mv_2.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/mv_3.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/mv_4.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/mv_5.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/mv_6.jpeg){: width="60%" height="80%"}
+![title](/files/post/20200614/mv_1.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/mv_2.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/mv_3.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/mv_4.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/mv_5.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/mv_6.jpeg){: width="80%" height="90%"}
