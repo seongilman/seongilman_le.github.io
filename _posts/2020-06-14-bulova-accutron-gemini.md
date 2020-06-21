@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bulova
-#subtitle: hello world!
+title: BULOVA
+subtitle: ACCUTRON GEMINI 63C107
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 cover-img: /files/post/20200614/bulova_cover.png
