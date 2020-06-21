@@ -22,7 +22,7 @@ Solid Caseback: 20ATM / 200 Meters
 Glass Caseback: 10ATM / 100 Meters
 
 
-![title](/files/post/20200614/undone_1.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/undone_2.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/undone_3.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/undone_4.jpeg){: width="60%" height="80%"}
+![title](/files/post/20200614/undone_1.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/undone_2.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/undone_3.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/undone_4.jpeg){: width="80%" height="90%"}
