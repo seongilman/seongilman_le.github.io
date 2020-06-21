@@ -24,9 +24,9 @@ WATER RESISTANCE
 10ATM / 100 Meters
 
 
-![title](/files/post/20200614/bulova_1.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/bulova_2.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/bulova_3.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/bulova_4.jpeg){: width="60%" height="80%"}
-![title](/files/post/20200614/bulova_5.jpeg){: width="60%" height="80%"}
+![title](/files/post/20200614/bulova_1.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/bulova_2.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/bulova_3.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/bulova_4.jpeg){: width="80%" height="90%"}
+![title](/files/post/20200614/bulova_5.jpeg){: width="80%" height="90%"}
 
